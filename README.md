@@ -51,3 +51,5 @@ My code is resolving the problem but there are some limitations :
 - create a complete registration and login process for many users
 - reinforce the security of the application (using web-tokens, encrypting sensible information)
 - include a shopping cart and product payments
+
+**NB:** The project is hosted on Heroku : [product-bridgeafrica](https://tranquil-plains-03356.herokuapp.com)
